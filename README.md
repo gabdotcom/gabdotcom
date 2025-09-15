@@ -1,4 +1,4 @@
-## Hi, I’m Gab 
+## Hi, I’m Gab 😾
 
 Information Technology student <br/>
 Web Development  <br/>
