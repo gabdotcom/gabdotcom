@@ -1,6 +1,6 @@
 ## Hi, I’m Gab 😾
 
-Information Technology student <br/>
+Information Technology Student <br/>
 Web Development  <br/>
 
 
