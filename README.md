@@ -7,9 +7,9 @@
 **IT graduate building a hands-on network engineering portfolio.**  
 VLANs, trunking, inter-VLAN routing, and Linux — documented lab by lab.
 
-📍 *Your City, Country*
+📍 Makati, Philippines
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Reyes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE-ME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Reyes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/REPLACE-ME](https://www.linkedin.com/in/gabriel-reyes-a7643a41a/?isSelfProfile=true))
 [![CCNA](https://img.shields.io/badge/CCNA_200--301-In_Progress-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/gabdotcom/networking-labs-portfolio/blob/main/ROADMAP.md)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Networking_Labs-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabdotcom/networking-labs-portfolio)
 
@@ -42,12 +42,12 @@ Each lab ships with a topology diagram, full `configs.txt`, and verification out
 ## Toolkit
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,php,laravel,mysql,typescript" alt="Linux, Bash, Git, GitHub, VS Code, PHP, Laravel, MySQL, TypeScript" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,php,laravel,mysql,typescript" alt="Linux, Bash, Git, GitHub, VS Code, PHP, Laravel, MySQL" />
 </p>
 
 **Networking:** Cisco IOS CLI · OSI & TCP/IP models · IPv4 subnetting · VLANs · 802.1Q trunking · inter-VLAN routing · SVI/VTY · Packet Tracer · verification & testing  
 **Systems:** Fedora Linux · Ubuntu · Bash · Git · Markdown  
-**Background:** PHP · Laravel · MySQL · TypeScript · HTML/CSS
+**Background:** PHP · Laravel · MySQL · HTML/CSS
 
 ## Roadmap
 
