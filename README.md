@@ -28,14 +28,42 @@ I'm an IT graduate focused on network engineering, with a growing interest in cy
 - **Daily driver:** Fedora Linux — CLI, Git, and Markdown
 - **Background:** full-stack PHP/Laravel, useful for automation and clear documentation
 
+<!--
+  ============================================================
+  FEATURED LABS — MOCKUP / TARGET STATE (JANUARY 2027)
+  ============================================================
+  This section is intentionally forward-looking. Only the
+  Multi-Switch Trunking lab exists today. The capstone,
+  STP/EtherChannel, Static Routing/DHCP, OSPF, and ACL/Port
+  Security links are PLACEHOLDER PATHS and do not exist yet.
+
+  Before publishing this profile:
+    1. Create the lab folders at these paths, or
+    2. Update the links to the real folder names.
+
+  Do not assume these links are valid just because they look real.
+  ============================================================
+-->
+
 ## Featured Labs
 
-Each lab ships with a topology diagram, full `configs.txt`, and verification output.
+Each lab includes a topology diagram, full `configs.txt`, verification output, and a short write-up of what it demonstrates.
 
-- **[Department VLAN Build](https://github.com/gabdotcom/networking-labs-portfolio/tree/main/01-Layer2-Switching/department-vlan-build)** — VLAN segmentation, access ports, broadcast-domain isolation
-- **[Router-on-a-Stick](https://github.com/gabdotcom/networking-labs-portfolio/tree/main/02-Routing-Inter_VLAN/router-on-a-stick)** — 802.1Q subinterfaces, inter-VLAN routing, default gateways
-- **[Multi-Switch Trunking](https://github.com/gabdotcom/networking-labs-portfolio/tree/main/03-Multi-Switch-Trunking/enterprise-multiswitch-trunking)** — 802.1Q inter-switch trunks, VLAN propagation, trunk verification
-- **[In-Band Management](https://github.com/gabdotcom/networking-labs-portfolio/tree/main/04-In-Band-Management/svi-vty-management)** — SVIs, management VLAN, VTY lines, remote switch administration
+### 🏢 Capstone: Enterprise Network Build
+
+An end-to-end enterprise topology combining VLANs, 802.1Q trunking, EtherChannel/STP, OSPF, ACLs, port security, DHCP relay, NAT, and SSH-only management — backed by a written security policy and full verification.
+
+[**View the capstone →**](https://github.com/gabdotcom/networking-labs-portfolio/tree/main/09-Capstone-Enterprise/enterprise-network-build)
+
+### Supporting Labs
+
+- **[Multi-Switch Trunking & Inter-VLAN Routing](https://github.com/gabdotcom/networking-labs-portfolio/tree/main/03-Multi-Switch-Trunking/enterprise-multiswitch-trunking)** — 802.1Q inter-switch trunks, VLAN propagation, router-on-a-stick, and trunk verification.
+- **[STP & EtherChannel Redundancy](https://github.com/gabdotcom/networking-labs-portfolio/tree/main/01-Layer2-Switching/stp-etherchannel)** — Root bridge election, PortFast/BPDU Guard, LACP bundles, and loop-free redundancy.
+- **[Static Routing, DHCP & Relay](https://github.com/gabdotcom/networking-labs-portfolio/tree/main/05-Static-Routing-DHCP/static-routing-dhcp)** — Default and floating static routes, DHCP pools, and `ip helper-address` across subnets.
+- **[OSPF Multi-Router Network](https://github.com/gabdotcom/networking-labs-portfolio/tree/main/06-Dynamic-Routing/ospf-multi-router)** — Single-area OSPFv2, neighbor adjacency, DR/BDR election, and default-route advertisement.
+- **[ACLs & Port Security](https://github.com/gabdotcom/networking-labs-portfolio/tree/main/07-Security-ACLs/acls-port-security)** — Standard and extended ACLs, sticky MACs, violation modes, and policy enforcement.
+
+[**See all 12–15 labs in the portfolio →**](https://github.com/gabdotcom/networking-labs-portfolio)
 
 [**Open the full portfolio →**](https://github.com/gabdotcom/networking-labs-portfolio)
 
