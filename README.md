@@ -9,7 +9,7 @@ VLANs, trunking, inter-VLAN routing, and Linux — documented lab by lab.
 
 📍 Makati, Philippines
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Reyes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/REPLACE-ME](https://www.linkedin.com/in/gabriel-reyes-a7643a41a/?isSelfProfile=true)](https://www.linkedin.com/in/gabriel-reyes-a7643a41a/?isSelfProfile=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Reyes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-reyes-a7643a41a/)
 [![CCNA](https://img.shields.io/badge/CCNA_200--301-In_Progress-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/gabdotcom/networking-labs-portfolio/blob/main/ROADMAP.md)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Networking_Labs-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabdotcom/networking-labs-portfolio)
 
