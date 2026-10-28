@@ -49,7 +49,7 @@ I'm an IT graduate focused on network engineering, with a growing interest in cy
 
 Each lab includes a topology diagram, full `configs.txt`, verification output, and a short write-up of what it demonstrates.
 
-### 🏢 Capstone: Enterprise Network Build
+### Capstone: Enterprise Network Build
 
 An end-to-end enterprise topology combining VLANs, 802.1Q trunking, EtherChannel/STP, OSPF, ACLs, port security, DHCP relay, NAT, and SSH-only management — backed by a written security policy and full verification.
 
@@ -90,6 +90,6 @@ It covers the study phases, mastery gates, and what "hireable" means to me.
 
 **Open to entry-level Network Engineer and NOC roles — building toward network security.**
 
-💡 Learn · Build · Document · Troubleshoot
+Learn · Build · Document · Troubleshoot
 
 </div>
