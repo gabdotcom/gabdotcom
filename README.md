@@ -70,7 +70,7 @@ An end-to-end enterprise topology combining VLANs, 802.1Q trunking, EtherChannel
 ## Toolkit
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,php,laravel,mysql,typescript" alt="Linux, Bash, Git, GitHub, VS Code, PHP, Laravel, MySQL" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,php,laravel,mysql" alt="Linux, Bash, Git, GitHub, VS Code, PHP, Laravel, MySQL" />
 </p>
 
 **Networking:** Cisco IOS CLI · OSI & TCP/IP models · IPv4 subnetting · VLANs · 802.1Q trunking · inter-VLAN routing · SVI/VTY · Packet Tracer · verification & testing  
